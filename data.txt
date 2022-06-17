@@ -1,0 +1,4 @@
+let person = {
+    name: "Mario",
+    age: 36
+}
